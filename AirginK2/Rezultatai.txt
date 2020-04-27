@@ -1,0 +1,17 @@
+CSKA;10;8;
+CSKA;10;8;
+Zalgiris;11;9;
+Rytas;10;7;
+Juve;9;9;
+
+CSKA;Vard Pavar;2000;Defender;10;11;
+CSKA;Vard Pavar;2000;Defender;10;11;
+CSKA;V Pa;2000;MidField;9;9;
+Rytas;Vaaaaaa zPa;2000;MidField;9;19;
+Juve;Airgin;2000;Attack;5;5;
+Zalgiris;OOOOOOooo;1999;Attack;6;9;
+
+9CSKA;V Pa;2000;MidField;9;9;
+CSKA;V Pa;2000;MidField;9;9;
+Rytas;Vaaaaaa zPa;2000;MidField;9;19;
+

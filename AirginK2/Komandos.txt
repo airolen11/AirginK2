@@ -1,0 +1,4 @@
+﻿CSKA; 10; 8
+Zalgiris; 11; 9
+Rytas; 10; 7
+Juve; 9; 9

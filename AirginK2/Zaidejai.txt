@@ -1,0 +1,5 @@
+﻿CSKA; Vard Pavar; 2000; Defender; 10; 11
+CSKA; V Pa; 2000; MidField; 9; 9
+Rytas; Vaaaaaa zPa; 2000; MidField; 9; 19
+Juve; Airgin; 2000; Attack; 5; 5
+Zalgiris; OOOOOOooo; 1999; Attack; 6; 9
